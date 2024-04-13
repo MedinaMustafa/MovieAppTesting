@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\MovieApp.csproj": {}
+    "C:\\Users\\rronh\\source\\repos\\MovieAppTesting\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\MovieApp.csproj": {
+    "C:\\Users\\rronh\\source\\repos\\MovieAppTesting\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "C:\\Users\\rronh\\source\\repos\\MovieAppTesting\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\MovieApp.csproj",
-        "packagesPath": "C:\\Users\\Buton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\obj\\",
+        "projectPath": "C:\\Users\\rronh\\source\\repos\\MovieAppTesting\\MovieApp\\MovieApp.csproj",
+        "packagesPath": "C:\\Users\\rronh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rronh\\source\\repos\\MovieAppTesting\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Buton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rronh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
