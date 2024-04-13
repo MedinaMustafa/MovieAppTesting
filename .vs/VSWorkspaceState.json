@@ -6,6 +6,6 @@
     "\\MovieApp\\DataAccess",
     "\\MovieApp\\Models"
   ],
-  "SelectedNode": "\\MovieApp.sln",
+  "SelectedNode": "\\MovieApp\\Controllers\\UserController.cs",
   "PreviewInSolutionExplorer": false
 }

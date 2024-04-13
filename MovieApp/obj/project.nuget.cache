@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aLrJtXTcd6jgAp7wSvwaZgKrHXoBfWm4UQ4t2n6q/+vWlYnd5zAquxGgIFPTZMzJjPvXMVsDVk7nQ7EavFDRkg==",
+  "dgSpecHash": "PIljXNn2qjAAZJ9bgjqvk2wq5SsOaZXpQWwv9fGQ2qTLzDXzZD6J6DYOubnbWZojs+TsRjo/wvv5z9IvhidsTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Buton\\Desktop\\LIFE2\\BackEnd Intro\\MovieApp\\MovieApp\\MovieApp.csproj",
+  "projectFilePath": "C:\\Users\\Buton\\Desktop\\RroniTest\\MovieAppTesting\\MovieApp\\MovieApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buton\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Buton\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
